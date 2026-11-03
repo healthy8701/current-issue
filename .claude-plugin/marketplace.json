@@ -1,0 +1,5 @@
+{
+  "name": "current-issue",
+  "owner": { "name": "healthy8701" },
+  "plugins": [{ "name": "current-issue", "source": "./" }]
+}

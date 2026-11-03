@@ -1,0 +1,6 @@
+{
+  "name": "current-issue",
+  "version": "0.1.0",
+  "description": "Track the GitHub issues an agent works on: in progress, pending and done, in a row above the prompt and a pane",
+  "types": "./types/index.d.ts"
+}
